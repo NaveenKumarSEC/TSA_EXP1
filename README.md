@@ -42,7 +42,7 @@ plt.show()
 
 # OUTPUT:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/1e4e6ca4-bf92-41c4-a47e-12e895b652f4)
 
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
